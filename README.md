@@ -1,7 +1,7 @@
 
 <div align="center">
   <p>
-    <h1>Olá! Eu sou Matheus Souza dos Santos ou simplesmente Msouza 😉</h1>
+    <h1>Olá! Eu sou Matheus Souza dos Santos ou Msouza 😉</h1>
     <h3>"A pessoa que diz que não pode ser feito não deve interromper a pessoa que está fazendo."</h3>
   </p>
 </div><br>
