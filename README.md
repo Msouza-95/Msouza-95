@@ -1,12 +1,18 @@
-## "A pessoa que diz que não pode ser feito não deve interromper a pessoa que está fazendo."🍃🍃
+
+<div align="center">
+  <p>
+    <h1>Olá , eu sou Matheus Souza dos Santos ou simplesmente Msouza 😉</h1>
+    <h3>"A pessoa que diz que não pode ser feito não deve interromper a pessoa que está fazendo."</h3>
+  </p>
+</div><br>
 
   - 🎓Cursando Bacharelado em Sistemas de Informação na UNEB | DIO Campus Expert | Iniciação Científica
-  - 🔭 Trabalho com back-end e Apache hop
-  - 🌱 Estudando react-native
+  - 🔭 Trabalho com Back-end e Apache hop
+  - 🌱 Estudando React-native
   - 👯 Colaborando com NobreFit
   - 😄 Pronouns: ele/dele
 
-###
+##
 
 <div align="center">
   <a href="https://github.com/Msouza-95">
@@ -17,14 +23,12 @@
   <img align="center" alt="ms-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ms-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ms-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ms-Postgres" height="40" width="50" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="ms-Nodejs" height="40" width="50" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="ms-Docker" height="100" width="100" src="https://badgen.net/badge/icon/docker?icon=docker&label">
-  <img align="center" alt="ms-MySQL" height="30" width="40" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="ms-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ms-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ms-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ms-VsCode" height="30" width="40" src="https://img.shields.io/badge/--6C33AF?logo=visual%20studio">
+  <img align="center" alt="ms-Nodejs" height="40" width="50" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg">
+  <img align="center" alt="ms-Docker" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
+   <img align="center" alt="ms-Postgres" height="30" width="40" href="#" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+  <img align="center" alt="ms-MySQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+  <img align="center" alt="ms-HOP" height="30" width="40"  href="#" src="https://hop.incubator.apache.org/img/hop-logo.svg">
+  <img align="center" alt="ms-VsCode" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
   
 </div>
 
