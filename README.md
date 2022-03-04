@@ -8,7 +8,7 @@
 
   - 🎓Cursando Bacharelado em Sistemas de Informação na UNEB | DIO Campus Expert | Iniciação Científica
   - 🔭 Trabalho com Back-end e Apache hop
-  - 🌱 Estudando React-native
+  - 🌱 Estudando .Net
   - 👯 Colaborando com NobreFit
   - 😄 Pronouns: ele/dele
 
