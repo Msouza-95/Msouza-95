@@ -29,6 +29,7 @@
   <img align="center" alt="ms-MySQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
   <img align="center" alt="ms-HOP" height="30" width="40"  href="#" src="https://hop.incubator.apache.org/img/hop-logo.svg">
   <img align="center" alt="ms-VsCode" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+  <img align="center" alt="ms-Prisma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg">
   
 </div>
 
