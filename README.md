@@ -6,10 +6,10 @@
   </p>
 </div><br>
 
-  - 🎓Cursando Bacharelado em Sistemas de Informação na UNEB | DIO Campus Expert | Iniciação Científica
+  - 🎓Graduado  em Sistemas de Informação na UNEB | Embaixador da DIO Campus Expert | Pesquisador no Núcleo de Pesquisa Aolicada e Inovação
   - 🔭 Trabalho com Back-end e Apache hop
-  - 🌱 Estudando .Net
-  - 👯 Colaborando com NobreFit
+  - 🌱 Estudando .Net e React 
+  - 👯 Colaborando co NobresFit
   - 😄 Pronouns: ele/dele
 
 ##
