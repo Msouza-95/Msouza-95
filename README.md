@@ -6,7 +6,7 @@
   </p>
 </div><br>
 
-  - 🎓Graduado  em Sistemas de Informação na UNEB | Embaixador da DIO Campus Expert | Pesquisador no Núcleo de Pesquisa Aolicada e Inovação
+  - 🎓Graduado  em Sistemas de Informação na UNEB | Embaixador da DIO Campus Expert | Pesquisador no Núcleo de Pesquisa Aplicada e Inovação
   - 🔭 Trabalho com Back-end e Apache hop
   - 🌱 Estudando .Net e React 
   - 👯 Colaborando co NobresFit
