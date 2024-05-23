@@ -6,11 +6,29 @@
   </p>
 </div><br>
 
-  - 🎓Graduado  em Sistemas de Informação na UNEB | Embaixador da DIO Campus Expert | Pesquisador no Núcleo de Pesquisa Aplicada e Inovação
-  - 🔭 Trabalho com Back-end e Apache hop
-  - 🌱 Estudando .Net e React 
-  - 👯 Colaborando co NobresFit
-  - 😄 Pronouns: ele/dele
+Bacharel em Sistemas de Informação pela Universidade do Estado da Bahia (UNEB) e residente em Salvador, BA. Desde jovem, sempre fui apaixonado por tecnologia, videogames e futebol, o que me levou a desenvolver um forte interesse por inovação e programação ao longo da minha carreira acadêmica e profissional.
+
+Atualmente, atuo como Desenvolvedor Back-End, e tenho uma ampla gama de habilidades e experiências que me permitem contribuir efetivamente para projetos tecnológicos diversos. Minhas principais competências incluem:
+
+- Desenvolvimento de API Rest: Proficiência em Node.js, TypeScript, Prisma, NestJS, FastFeet API, Express e TypeORM, permitindo a criação de soluções robustas e escaláveis.
+
+- Micro Serviços: Conhecimento na arquitetura de micro serviços, facilitando a criação de sistemas distribuídos e escaláveis.
+
+- Documentação de API: Experiência na utilização do Swagger para criar documentações claras e compreensíveis, facilitando a integração e o entendimento por parte de outras equipes e desenvolvedores.
+
+- Testes de Software: Utilização do Jest para garantir a qualidade e a confiabilidade do código através de testes automatizados.
+
+- Modelagem de Banco de Dados: Habilidade na estruturação e otimização de bancos de dados, assegurando eficiência e integridade dos dados.
+
+- Metodologias Ágeis: Aplicação da metodologia Scrum para gerenciar projetos de maneira eficiente, promovendo a colaboração e a entrega contínua de valor.
+
+- Princípios SOLID: Conhecimento aprofundado nos princípios de design de software SOLID, garantindo a manutenção e escalabilidade dos sistemas desenvolvidos.
+
+- ETL (Extract, Transform, Load): Experiência com processos ETL utilizando a ferramenta Apache Hop, facilitando a transformação e migração de dados de forma eficiente.
+
+Além dessas habilidades técnicas, estou constantemente buscando aprimorar meus conhecimentos. Atualmente, estou focado em estudar React Native e DevOps, áreas que considero essenciais para o desenvolvimento de aplicações modernas e a gestão eficaz de infraestruturas de TI.
+
+Minha trajetória é marcada por um compromisso contínuo com o aprendizado e a inovação. Acredito que a combinação de habilidades técnicas sólidas e uma paixão por tecnologia me torna apto a enfrentar novos desafios e contribuir significativamente para o sucesso de projetos e equipes. Estou sempre em busca de oportunidades para aplicar meu conhecimento e fazer a diferença no campo da tecnologia.
 
 ##
 
